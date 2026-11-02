@@ -1,0 +1,34 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "args",
+      "rootUri": "file:///Users/eduardomartinez/.pub-cache/hosted/pub.dev/args-2.7.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
+    },
+    {
+      "name": "lints",
+      "rootUri": "file:///Users/eduardomartinez/.pub-cache/hosted/pub.dev/lints-3.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "path",
+      "rootUri": "file:///Users/eduardomartinez/.pub-cache/hosted/pub.dev/path-1.9.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "themes_cli",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    }
+  ],
+  "generator": "pub",
+  "generatorVersion": "3.13.4",
+  "flutterRoot": "file:///Users/eduardomartinez/Library/flutter",
+  "flutterVersion": "3.47.5",
+  "pubCache": "file:///Users/eduardomartinez/.pub-cache"
+}
