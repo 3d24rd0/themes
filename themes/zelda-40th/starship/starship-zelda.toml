@@ -1,0 +1,34 @@
+# Starship prompt configuration snippet for Zelda 40th Anniversary
+# Includes authentic geometric 3-triangle Triforce prompt
+
+palette = "zelda_40th"
+
+[character]
+success_symbol = " [▲](bold fg:yellow)\n[▲ ▲ ❯](bold fg:green) "
+error_symbol = " [▲](bold fg:red)\n[▲ ▲ ❯](bold fg:red) "
+
+[palettes.zelda_40th]
+text = "#E6E2D8"
+red = "#C43F38"
+green = "#447A66"
+yellow = "#E5CF77"
+blue = "#638BA4"
+mauve = "#8A6E9A"
+pink = "#E5CF77"
+teal = "#358075"
+peach = "#DFB166"
+subtext0 = "#5C605E"
+overlay0 = "#1C1E20"
+rosewater = "#D4B260"
+flamingo = "#E26252"
+maroon = "#C43F38"
+lavender = "#9D7DC5"
+subtext1 = "#8A8E8A"
+overlay2 = "#2E3236"
+overlay1 = "#1E2124"
+surface2 = "#2C281E"
+surface1 = "#1C1E20"
+surface0 = "#151719"
+base = "none"
+mantle = "#0E0F10"
+crust = "#0E0F10"

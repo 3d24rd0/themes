@@ -1,0 +1,16 @@
+# Zelda 40th Obsidian Edition Palette for tmux
+
+zelda_bg="#0e0f10"
+zelda_fg="#e6e2d8"
+zelda_black="#1c1e20"
+zelda_red="#c43f38"
+zelda_red_bright="#e26252"
+zelda_green="#3f6d5b"
+zelda_green_bright="#568c76"
+zelda_gold="#d4b260"
+zelda_gold_bright="#e5cf77"
+zelda_blue="#4a6b82"
+zelda_blue_bright="#638ba4"
+zelda_purple="#8a6e9a"
+zelda_teal="#358075"
+zelda_white="#f2ece6"

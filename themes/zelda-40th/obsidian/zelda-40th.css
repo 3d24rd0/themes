@@ -1,0 +1,35 @@
+/* ─────────────────────────────────────────────────────────────────────────────
+   Zelda 40th Anniversary Theme Snippet for Obsidian
+   Palette: Matte Obsidian, Triforce Gold & Zonai Relic Accents
+   ───────────────────────────────────────────────────────────────────────────── */
+
+.theme-dark {
+  --color-base-00: #0e0f10; /* Primary app background */
+  --color-base-10: #151719; /* Sidebars / panels */
+  --color-base-20: #1c1e20; /* Active borders / inputs */
+  --color-base-30: #25282c; /* Hover states */
+  --color-base-40: #2e3236; /* Dividers */
+
+  --text-normal: #e6e2d8;   /* Warm Hylian ivory */
+  --text-muted: #8a8e8a;    /* Dim metadata */
+  --text-faint: #5c605e;
+
+  --interactive-accent: #e5cf77;       /* Triforce Gold */
+  --interactive-accent-hover: #d4b260;
+  
+  --text-accent: #e5cf77;
+  --text-accent-hover: #d4b260;
+
+  --h1-color: #e5cf77;
+  --h2-color: #d4b260;
+  --h3-color: #358075; /* Zonai Relic Teal */
+  --h4-color: #638ba4; /* Master Sword Blue */
+  --h5-color: #447a66; /* Hero Sage Green */
+  --h6-color: #dfb166; /* Ancient Amber */
+
+  --tag-color: #e5cf77;
+  --tag-background: #2c281e;
+
+  --link-color: #358075;
+  --link-color-hover: #4abda3;
+}

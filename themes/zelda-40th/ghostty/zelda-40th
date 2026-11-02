@@ -1,0 +1,35 @@
+# ─────────────────────────────────────────────────────────────────────────────
+# The Legend of Zelda: 40th Anniversary Theme (Obsidian & Gold Edition)
+# Deep matte obsidian (#0e0f10), authentic Triforce gold, and muted relic accents
+# ─────────────────────────────────────────────────────────────────────────────
+
+# Background: Matte Obsidian Slate / Deep Dark
+background = #0e0f10
+# Foreground: Ancient Hylian Ivory / Warm Parchment
+foreground = #e6e2d8
+
+# Cursor: Triforce Gold
+cursor-color = #e5cf77
+cursor-text = #0e0f10
+selection-background = #2c281e
+selection-foreground = #e6e2d8
+
+# Normal colors
+palette = 0=#0e0f10
+palette = 1=#c43f38
+palette = 2=#3f6d5b
+palette = 3=#d4b260
+palette = 4=#4a6b82
+palette = 5=#8a6e9a
+palette = 6=#358075
+palette = 7=#d5d0c5
+
+# Bright colors
+palette = 8=#222426
+palette = 9=#e26252
+palette = 10=#568c76
+palette = 11=#e5cf77
+palette = 12=#638ba4
+palette = 13=#ad8fc0
+palette = 14=#4abda3
+palette = 15=#f2ece6
