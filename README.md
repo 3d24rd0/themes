@@ -8,7 +8,7 @@ Includes a **Dart CLI** for instant multi-tool installation and an **Agent Skill
 
 | Theme | Inspiration | Dominant Palette | Supported Platforms |
 | :--- | :--- | :--- | :--- |
-| [**Zelda 40th Anniversary**](themes/zelda) | Switch OLED Zelda Edition / 40º Aniversario Oficial | Deep Matte Obsidian `#0E0F10`, Triforce Gold `#E5CF77`, Zonai Teal `#358075` | Ghostty, tmux, Gentle Shell, Fish, Starship, VS Code, Obsidian |
+| [**Zelda**](themes/zelda) | The Legend of Zelda: Iconic Hyrule Edition | Sanctuary Slate `#0C1014`, Triforce Gold `#EAC448`, Hyrule Emerald `#28C47B`, Master Sword Blue `#3B9EE0` | Ghostty, tmux, Gentle Shell, Fish, Starship, VS Code, Obsidian |
 
 ---
 
@@ -61,7 +61,7 @@ themes/
     │   ├── tmux/{palette.sh,default.sh}
     │   ├── gentle-shell/Zelda.json
     │   ├── fish/zelda.fish
-    │   ├── starship/starship-zelda.toml
+    │   ├── starship/starship.toml
     │   ├── vscode/settings.json
     │   └── obsidian/zelda.css
     │

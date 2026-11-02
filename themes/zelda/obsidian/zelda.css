@@ -1,35 +1,36 @@
 /* ─────────────────────────────────────────────────────────────────────────────
-   Zelda 40th Anniversary Theme Snippet for Obsidian
-   Palette: Matte Obsidian, Triforce Gold & Zonai Relic Accents
+   Zelda Theme Snippet for Obsidian (Iconic Hyrule Edition)
+   Palette: Sanctuary Slate (#0C1014), Royal Triforce Gold (#EAC448),
+   Hyrule Emerald (#28C47B) & Master Sword Blue (#3B9EE0)
    ───────────────────────────────────────────────────────────────────────────── */
 
 .theme-dark {
-  --color-base-00: #0e0f10; /* Primary app background */
-  --color-base-10: #151719; /* Sidebars / panels */
-  --color-base-20: #1c1e20; /* Active borders / inputs */
-  --color-base-30: #25282c; /* Hover states */
-  --color-base-40: #2e3236; /* Dividers */
+  --color-base-00: #0c1014; /* Primary app background */
+  --color-base-10: #131a20; /* Sidebars / panels */
+  --color-base-20: #1c242a; /* Active borders / inputs */
+  --color-base-30: #233440; /* Hover states */
+  --color-base-40: #2c3e4c; /* Dividers */
 
-  --text-normal: #e6e2d8;   /* Warm Hylian ivory */
-  --text-muted: #8a8e8a;    /* Dim metadata */
-  --text-faint: #5c605e;
+  --text-normal: #e8e4d8;   /* Warm Hylian ivory */
+  --text-muted: #8a9aa5;    /* Dim metadata */
+  --text-faint: #576975;
 
-  --interactive-accent: #e5cf77;       /* Triforce Gold */
-  --interactive-accent-hover: #d4b260;
+  --interactive-accent: #eac448;       /* Royal Triforce Gold */
+  --interactive-accent-hover: #f5d35a;
   
-  --text-accent: #e5cf77;
-  --text-accent-hover: #d4b260;
+  --text-accent: #eac448;
+  --text-accent-hover: #f5d35a;
 
-  --h1-color: #e5cf77;
-  --h2-color: #d4b260;
-  --h3-color: #358075; /* Zonai Relic Teal */
-  --h4-color: #638ba4; /* Master Sword Blue */
-  --h5-color: #447a66; /* Hero Sage Green */
-  --h6-color: #dfb166; /* Ancient Amber */
+  --h1-color: #eac448; /* Triforce Gold */
+  --h2-color: #28c47b; /* Hyrule Emerald */
+  --h3-color: #3b9ee0; /* Master Sword Blue */
+  --h4-color: #2ec4b6; /* Zonai Relic Teal */
+  --h5-color: #a374db; /* Twilight Realm Purple */
+  --h6-color: #f5a623; /* Ancient Amber */
 
-  --tag-color: #e5cf77;
-  --tag-background: #2c281e;
+  --tag-color: #eac448;
+  --tag-background: #1a3536;
 
-  --link-color: #358075;
-  --link-color-hover: #4abda3;
+  --link-color: #2ec4b6;
+  --link-color-hover: #38e392;
 }

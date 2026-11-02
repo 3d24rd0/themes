@@ -1,35 +1,36 @@
 # ─────────────────────────────────────────────────────────────────────────────
-# The Legend of Zelda: 40th Anniversary Theme (Obsidian & Gold Edition)
-# Deep matte obsidian (#0e0f10), authentic Triforce gold, and muted relic accents
+# The Legend of Zelda: Iconic Hyrule Edition
+# Deep Sanctuary Slate (#0c1014), Master Sword Blue (#3b9ee0), 
+# Hyrule Emerald (#28c47b) and Royal Triforce Gold (#eac448)
 # ─────────────────────────────────────────────────────────────────────────────
 
-# Background: Matte Obsidian Slate / Deep Dark
-background = #0e0f10
-# Foreground: Ancient Hylian Ivory / Warm Parchment
-foreground = #e6e2d8
+# Background: Sanctuary Stone / Deep Temple Dark
+background = #0c1014
+# Foreground: Ancient Hylian Ivory / Warm Parchment (confortable para la vista)
+foreground = #e8e4d8
 
 # Cursor: Triforce Gold
-cursor-color = #e5cf77
-cursor-text = #0e0f10
-selection-background = #2c281e
-selection-foreground = #e6e2d8
+cursor-color = #eac448
+cursor-text = #0c1014
+selection-background = #1a3536
+selection-foreground = #e8e4d8
 
 # Normal colors
-palette = 0=#0e0f10
-palette = 1=#c43f38
-palette = 2=#3f6d5b
-palette = 3=#d4b260
-palette = 4=#4a6b82
-palette = 5=#8a6e9a
-palette = 6=#358075
-palette = 7=#d5d0c5
+palette = 0=#0c1014
+palette = 1=#e04747
+palette = 2=#28c47b
+palette = 3=#eac448
+palette = 4=#3b9ee0
+palette = 5=#a374db
+palette = 6=#2ec4b6
+palette = 7=#dcd8cb
 
 # Bright colors
-palette = 8=#222426
-palette = 9=#e26252
-palette = 10=#568c76
-palette = 11=#e5cf77
-palette = 12=#638ba4
-palette = 13=#ad8fc0
-palette = 14=#4abda3
-palette = 15=#f2ece6
+palette = 8=#1c242a
+palette = 9=#f05d5d
+palette = 10=#38e392
+palette = 11=#f5d35a
+palette = 12=#52b0f2
+palette = 13=#b88bf0
+palette = 14=#45dfd0
+palette = 15=#f4f0e4
