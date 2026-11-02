@@ -171,17 +171,17 @@ void _applyTmux(String themeName, Directory themeDir) {
 }
 
 void _applyGentleShell(String themeName, Directory themeDir) {
-  final source = File(p.join(themeDir.path, 'gentle-shell', 'Zelda-40th.json'));
+  final source = File(p.join(themeDir.path, 'gentle-shell', 'Zelda.json'));
   if (!source.existsSync()) return;
 
-  final targetThemeFile = p.join(homeDir, '.gentle-shell', 'agent', 'themes', 'Zelda-40th.json');
+  final targetThemeFile = p.join(homeDir, '.gentle-shell', 'agent', 'themes', 'Zelda.json');
   File(targetThemeFile).parent.createSync(recursive: true);
   source.copySync(targetThemeFile);
 
   final settingsFile = File(p.join(homeDir, '.gentle-shell', 'agent', 'settings.json'));
   if (settingsFile.existsSync()) {
     var content = settingsFile.readAsStringSync();
-    content = content.replaceAll(RegExp(r'"theme":\s*"[^"]*"'), '"theme": "Zelda-40th"');
+    content = content.replaceAll(RegExp(r'"theme":\s*"[^"]*"'), '"theme": "Zelda"');
     settingsFile.writeAsStringSync(content);
   }
   print('  ✓ Gentle Shell: theme updated in ~/.gentle-shell/agent/settings.json (Reload: /reload)');

@@ -19,10 +19,10 @@ A dark, high-contrast, eye-strain-free theme inspired by the **Nintendo Switch O
 
 ## Supported Applications
 
-- [x] **Ghostty**: `ghostty/zelda-40th`
+- [x] **Ghostty**: `ghostty/zelda`
 - [x] **tmux**: `tmux/palette.sh` & `tmux/default.sh`
-- [x] **Gentle Shell / Pi**: `gentle-shell/Zelda-40th.json`
-- [x] **Fish Shell**: `fish/zelda-40th.fish`
+- [x] **Gentle Shell / Pi**: `gentle-shell/Zelda.json`
+- [x] **Fish Shell**: `fish/zelda.fish`
 - [x] **Starship**: `starship/starship-zelda.toml` (includes authentic 3-triangle Triforce prompt)
 - [x] **VS Code**: `vscode/settings.json`
-- [x] **Obsidian**: `obsidian/zelda-40th.css`
+- [x] **Obsidian**: `obsidian/zelda.css`

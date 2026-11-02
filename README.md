@@ -8,7 +8,7 @@ Includes a **Dart CLI** for instant multi-tool installation and an **Agent Skill
 
 | Theme | Inspiration | Dominant Palette | Supported Platforms |
 | :--- | :--- | :--- | :--- |
-| [**Zelda 40th Anniversary**](themes/zelda-40th) | Switch OLED Zelda Edition / 40º Aniversario Oficial | Deep Matte Obsidian `#0E0F10`, Triforce Gold `#E5CF77`, Zonai Teal `#358075` | Ghostty, tmux, Gentle Shell, Fish, Starship, VS Code, Obsidian |
+| [**Zelda 40th Anniversary**](themes/zelda) | Switch OLED Zelda Edition / 40º Aniversario Oficial | Deep Matte Obsidian `#0E0F10`, Triforce Gold `#E5CF77`, Zonai Teal `#358075` | Ghostty, tmux, Gentle Shell, Fish, Starship, VS Code, Obsidian |
 
 ---
 
@@ -24,13 +24,13 @@ Includes a **Dart CLI** for instant multi-tool installation and an **Agent Skill
 dart run bin/themes.dart list
 
 # 2. Apply a theme to ALL tools at once:
-dart run bin/themes.dart apply zelda-40th
+dart run bin/themes.dart apply zelda
 
 # 3. Or apply only to specific targets:
-dart run bin/themes.dart apply zelda-40th --ghostty
-dart run bin/themes.dart apply zelda-40th --tmux
-dart run bin/themes.dart apply zelda-40th --gentle-shell
-dart run bin/themes.dart apply zelda-40th --obsidian
+dart run bin/themes.dart apply zelda --ghostty
+dart run bin/themes.dart apply zelda --tmux
+dart run bin/themes.dart apply zelda --gentle-shell
+dart run bin/themes.dart apply zelda --obsidian
 ```
 
 ---
@@ -55,15 +55,15 @@ themes/
 │   └── theme-craft/
 │       └── SKILL.md                  # Skill for generating new complete themes
 └── themes/
-    ├── zelda-40th/
+    ├── zelda/
     │   ├── README.md
-    │   ├── ghostty/zelda-40th
+    │   ├── ghostty/zelda
     │   ├── tmux/{palette.sh,default.sh}
-    │   ├── gentle-shell/Zelda-40th.json
-    │   ├── fish/zelda-40th.fish
+    │   ├── gentle-shell/Zelda.json
+    │   ├── fish/zelda.fish
     │   ├── starship/starship-zelda.toml
     │   ├── vscode/settings.json
-    │   └── obsidian/zelda-40th.css
+    │   └── obsidian/zelda.css
     │
     └── <future-theme>/
 ```
